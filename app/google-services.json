@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32777291716",
+    "firebase_url": "https://book-app-c4cf2.firebaseio.com",
+    "project_id": "book-app-c4cf2",
+    "storage_bucket": "book-app-c4cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32777291716:android:3b692963d2475761384691",
+        "android_client_info": {
+          "package_name": "com.example.attendify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32777291716-di4nnus2tvaqgca4d0pqdvjt37jj60ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendify",
+            "certificate_hash": "71b6ca33c57314ec194ef596a59423208de048d4"
+          }
+        },
+        {
+          "client_id": "32777291716-2qj9fuf0llonigohn0ng0q0m9vsjsmo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALpwu6EajJHAR8dkO_Itq0sd29rX_yx1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32777291716-2qj9fuf0llonigohn0ng0q0m9vsjsmo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
